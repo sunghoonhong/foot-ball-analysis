@@ -5,6 +5,7 @@ All data is in csv format, ready for use within standard spreadsheet application
 
 ## Key to results data:
 
+
 - Div = League Division
 - Date = Match Date (dd/mm/yy)
 - HomeTeam = Home Team
@@ -17,6 +18,7 @@ All data is in csv format, ready for use within standard spreadsheet application
 - HTR = Half Time Result (H=Home Win, D=Draw, A=Away Win)
 
 ### Match Statistics (where available)
+
 
 - Attendance = Crowd Attendance
 - Referee = Match Referee
@@ -47,6 +49,7 @@ All data is in csv format, ready for use within standard spreadsheet application
 
 
 ### Key to 1X2 (match) betting odds data:
+
 
 - B365H = Bet365 home win odds
 - B365D = Bet365 draw odds
@@ -87,8 +90,6 @@ All data is in csv format, ready for use within standard spreadsheet application
 - WHH = William Hill home win odds
 - WHD = William Hill draw odds
 - WHA = William Hill away win odds
- 
- 
 - Bb1X2 = Number of BetBrain bookmakers used to calculate match odds averages and maximums
 - BbMxH = Betbrain maximum home win odds
 - BbAvH = Betbrain average home win odds
@@ -96,8 +97,6 @@ All data is in csv format, ready for use within standard spreadsheet application
 - BbAvD = Betbrain average draw win odds
 - BbMxA = Betbrain maximum away win odds
 - BbAvA = Betbrain average away win odds
-
-
 - MaxH = Oddsportal maximum home win odds
 - MaxD = Oddsportal maximum draw win odds
 - MaxA = Oddsportal maximum away win odds
