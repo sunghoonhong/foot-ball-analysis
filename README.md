@@ -111,8 +111,7 @@ All data is in csv format, ready for use within standard spreadsheet application
 - BbMx>2.5 = Betbrain maximum over 2.5 goals
 - BbAv>2.5 = Betbrain average over 2.5 goals
 - BbMx<2.5 = Betbrain maximum under 2.5 goals
-- BbAv<2.5 = Betbrain average under 2.5 goals  
-
+- BbAv<2.5 = Betbrain average under 2.5 goals
 - GB>2.5 = Gamebookers over 2.5 goals
 - GB<2.5 = Gamebookers under 2.5 goals
 - B365>2.5 = Bet365 over 2.5 goals
