@@ -89,14 +89,14 @@ All data is in csv format, ready for use within standard spreadsheet application
 - VCA = VC Bet away win odds
 - WHH = William Hill home win odds
 - WHD = William Hill draw odds
-- WHA = William Hill away win odds
+- WHA = William Hill away win odds  
 - Bb1X2 = Number of BetBrain bookmakers used to calculate match odds averages and maximums
 - BbMxH = Betbrain maximum home win odds
 - BbAvH = Betbrain average home win odds
 - BbMxD = Betbrain maximum draw odds
 - BbAvD = Betbrain average draw win odds
 - BbMxA = Betbrain maximum away win odds
-- BbAvA = Betbrain average away win odds
+- BbAvA = Betbrain average away win odds  
 - MaxH = Oddsportal maximum home win odds
 - MaxD = Oddsportal maximum draw win odds
 - MaxA = Oddsportal maximum away win odds
@@ -111,8 +111,7 @@ All data is in csv format, ready for use within standard spreadsheet application
 - BbMx>2.5 = Betbrain maximum over 2.5 goals
 - BbAv>2.5 = Betbrain average over 2.5 goals
 - BbMx<2.5 = Betbrain maximum under 2.5 goals
-- BbAv<2.5 = Betbrain average under 2.5 goals
-
+- BbAv<2.5 = Betbrain average under 2.5 goals  
 
 - GB>2.5 = Gamebookers over 2.5 goals
 - GB<2.5 = Gamebookers under 2.5 goals
@@ -127,9 +126,7 @@ All data is in csv format, ready for use within standard spreadsheet application
 - BbMxAHH = Betbrain maximum Asian handicap home team odds
 - BbAvAHH = Betbrain average Asian handicap home team odds
 - BbMxAHA = Betbrain maximum Asian handicap away team odds
-- BbAvAHA = Betbrain average Asian handicap away team odds
-
-
+- BbAvAHA = Betbrain average Asian handicap away team odds  
 - GBAHH = Gamebookers Asian handicap home team odds
 - GBAHA = Gamebookers Asian handicap away team odds
 - GBAH = Gamebookers size of handicap (home team)
