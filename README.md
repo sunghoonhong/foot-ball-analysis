@@ -3,7 +3,7 @@
 
 All data is in csv format, ready for use within standard spreadsheet applications. Please note that some abbreviations are no longer in use (in particular odds from specific bookmakers no longer used) and refer to data collected in earlier seasons. For a current list of what bookmakers are included in the [***Dataset***](http://www.football-data.co.uk/matches.php)
 
-## Key to results data:
+### Key to results data
 
 
 - Div = League Division
@@ -48,7 +48,7 @@ All data is in csv format, ready for use within standard spreadsheet application
 *Note also that English and Scottish yellow cards do not include the initial yellow card when a second is shown to a player converting it into a red, but this is included as a yellow (plus red) for European games.*
 
 
-### Key to 1X2 (match) betting odds data:
+### Key to 1X2 (match) betting odds data
 
 
 - B365H = Bet365 home win odds
@@ -105,7 +105,7 @@ All data is in csv format, ready for use within standard spreadsheet application
 - AvgA = Oddsportal average away win odds
 
 
-### Key to total goals betting odds:
+### Key to total goals betting odds
 
 - BbOU = Number of BetBrain bookmakers used to calculate over/under 2.5 goals (total goals) averages and maximums
 - BbMx>2.5 = Betbrain maximum over 2.5 goals
@@ -118,7 +118,7 @@ All data is in csv format, ready for use within standard spreadsheet application
 - B365<2.5 = Bet365 under 2.5 goals
 
 
-### Key to Asian handicap betting odds:
+### Key to Asian handicap betting odds
 
 - BbAH = Number of BetBrain bookmakers used to Asian handicap averages and maximums
 - BbAHh = Betbrain size of handicap (home team)
